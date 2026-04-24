@@ -54,3 +54,9 @@ This project demonstrates how funnel analysis can help businesses understand use
 
 ## 🔗 GitHub Repository
 https://github.com/Mohammedhajimasthan/FUTURE_DS_03
+
+## 📊 Dashboard File
+Due to file size limitations, the Power BI (.pbix) file is not uploaded.
+
+You can view the dashboard through screenshots provided in this repository.
+
